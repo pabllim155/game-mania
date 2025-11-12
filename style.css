@@ -31,9 +31,9 @@ button{
 }
 h1 {
     width: 10px;
-     margin-left: 40%; 
+     margin-left: 45%; 
      font-size: 100px;
-    transform: translatey(85%);
+    transform: translatey(10%);
 
 }
 h2{
@@ -42,4 +42,14 @@ h2{
     margin-top: 10%;
     transform: translatey(-350%);
 }
+.search-input{
+    transform: translateY(-900%);
+    margin-top: 10px;
+    width: 700px;
+    height: 30px;
+    font-size: 20px;
+    margin-left: 35%;
 
+  
+
+}
