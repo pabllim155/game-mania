@@ -49,7 +49,138 @@ h2{
     height: 30px;
     font-size: 20px;
     margin-left: 35%;
+}
 
-  
+.carrinho{
+    width: 80px;
+    height: 80px;
+    transform : translatey(-360%);
+    transform : translatex(650%);
+    margin-top: -890px;
+    background: rgb(255, 255, 255);
+    padding-left: -50px;
+    
 
+}
+.carrinho2{
+    transform : translatey(0%);
+    transform : translatex(1%);
+    background: rgb(255, 255, 255);
+}
+.usuario{
+    transform : translatey(-20%);
+
+}
+.usuario{
+    width: 80px;
+    height: 80px;
+    transform : translatey(-360%);
+    transform : translatex(700%);
+    margin-top: -890px;
+    background: rgb(255, 255, 255);
+    padding-left: -50px;
+}
+.favorito1{
+    width: 80px;
+    height: 80px;
+    transform : translatey(-360%);
+    transform : translatex(750%);
+    margin-top: -890px;
+    background: rgb(255, 255, 255);
+    padding-left: -50px;
+
+}
+.favorito2{
+    width: 80px;
+    height: 80px;
+    transform : translatey(-360%);
+    transform : translatex(800%);
+    margin-top: -890px;
+    background: rgb(255, 255, 255);
+    padding-left: -50px;
+}
+.imagem1{
+    width: 100%;
+    height: 250px;
+    
+}
+.imagem2{
+    width: auto;
+    height:auto;
+}
+.imagem3{
+    width: 300px;
+    height: 300px;
+    transform : translatey(-200%);
+    transform : translatex(60%);
+    margin-top: -890px;
+    background: rgb(255, 255, 255);
+    padding-left: -50px;
+}
+.imagem4{
+    width: 300px;
+    height: 300px;
+    transform : translatey(-200%);
+    transform : translatex(100%);
+    margin-top: -890px;
+    background: rgb(255, 255, 255);
+    padding-left: -50px;
+}
+.imagem5{
+    width: 200px;
+    height: 200px;
+    transform : translatey(200%);
+    transform : translatex(200%);
+    margin-left: 50px;
+    background: rgb(255, 255, 255);
+    padding-left: 50px;
+}
+.produto1{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.produto2{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.produto3{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.produto4{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+.produto5{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.produto6{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.produto7{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.produto8{
+    width: 200px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 50px;
 }
